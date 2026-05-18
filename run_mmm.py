@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 
 OUTPUT_DIR = Path("output")
-SELECT_MODEL = "3_142_1"
+SELECT_MODEL = "selected_model_here"
 
 
 def run_r_script(script: str) -> None:
