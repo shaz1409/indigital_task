@@ -28,5 +28,6 @@ Spend a few minutes reading through. Then talk us through:
 2. **What you recognise** — concepts, libraries, modelling choices you've seen or used before.
 3. **What you'd research** — before you'd feel comfortable owning this codebase in production.
 4. **What you'd ask the previous analyst** — about decisions you can't infer from the code alone.
+5. **What you would add to the codebase** — future optimisation thoughts.
 
 You don't need to run anything. Read it like a code review.
